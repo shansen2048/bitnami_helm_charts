@@ -1,8 +1,28 @@
 # Changelog
 
+## 24.7.5 (2025-07-02)
+
+* [bitnami/keycloak] :zap: :arrow_up: Update dependency references ([#34768](https://github.com/bitnami/charts/pull/34768))
+
+## <small>24.7.4 (2025-06-11)</small>
+
+* [bitnami/keycloak] :zap: :arrow_up: Update dependency references (#34343) ([6a2bc60](https://github.com/bitnami/charts/commit/6a2bc60e0b733c65dbd41d845d7d770d5982ab32)), closes [#34343](https://github.com/bitnami/charts/issues/34343)
+
+## <small>24.7.3 (2025-05-28)</small>
+
+* [bitnami/keycloak] :zap: :arrow_up: Update dependency references (#33943) ([007a5df](https://github.com/bitnami/charts/commit/007a5df8e73f1e062940bedf3763d91abdc498e4)), closes [#33943](https://github.com/bitnami/charts/issues/33943)
+
+## <small>24.7.2 (2025-05-28)</small>
+
+* [bitnami/keycloak] :zap: :arrow_up: Update dependency references (#33930) ([41ef43f](https://github.com/bitnami/charts/commit/41ef43f4ef7d091f75739eba41916b6e716e8e3f)), closes [#33930](https://github.com/bitnami/charts/issues/33930)
+
+## <small>24.7.1 (2025-05-22)</small>
+
+* [bitnami/keycloak] fix: preserve timestamps in init script (#33812) ([f3ec521](https://github.com/bitnami/charts/commit/f3ec521adf17b1e836760f963c99f8e129bbd276)), closes [#33812](https://github.com/bitnami/charts/issues/33812)
+
 ## 24.7.0 (2025-05-19)
 
-* [bitnami/keycloak] Improvements to Keycloak cache handling ([#32885](https://github.com/bitnami/charts/pull/32885))
+* [bitnami/keycloak] Improvements to Keycloak cache handling (#32885) ([b2500eb](https://github.com/bitnami/charts/commit/b2500ebf9a4b983f8975d0d426a9c1473453fe1f)), closes [#32885](https://github.com/bitnami/charts/issues/32885)
 
 ## <small>24.6.7 (2025-05-13)</small>
 
